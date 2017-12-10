@@ -7,6 +7,9 @@
 #MAC OS
 .DS_Store/
 
+#out dir
+.out/
+
 # Log file
 *.log
 
